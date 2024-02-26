@@ -22,8 +22,8 @@ Müşterilerimiz için özel oyun geliştirmeleri yapıyoruz. İhtiyaçlarına �
 
 ArMOYu, kendi geliştirdiğimiz sosyal medya platformudur. Oyuncular için özel olarak tasarlanmış bu platformda, oyun deneyimlerinizi paylaşabilir, etkinliklere katılabilir ve diğer oyuncularla iletişim kurabilirsiniz.
 
-- **Play Store:** [ARMOYU - Google Play](https://play.google.com/store/apps/details?id=com.armoyu)
-- **App Store:** [ARMOYU - App Store](https://apps.apple.com/us/app/armoyu/id1234567890)
+- **Play Store:** [ARMOYU - Google Play](https://play.google.com/store/apps/details?id=com.ARMOYU)
+- **App Store:** [ARMOYU - App Store](https://apps.apple.com/tr/app/armoyu/id6448871009?l=tr)
 
 ## 🤝 Nasıl Katılabilirsiniz? 🤝
 
@@ -31,6 +31,6 @@ Eğer projelerimizden herhangi birine katılmak veya bizimle çalışmak istiyor
 
 ## 📞 İletişim 📞
 
-- E-posta: info@aramizdaki-oyuncu.com
+- E-posta: yonetimekibi@aramizdakioyuncu.com
 - Web sitesi: [aramizdakioyuncu.com](https://aramizdakioyuncu.com)
 - Sosyal Medya: [Twitter](https://twitter.com/aramizdakioyuncu), [Instagram](https://www.instagram.com/aramizdakioyuncu), [Facebook](https://www.facebook.com/aramizdakioyuncu)
