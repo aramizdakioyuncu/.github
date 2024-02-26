@@ -27,7 +27,7 @@ ArMOYu, kendi geliştirdiğimiz sosyal medya platformudur. Oyuncular için özel
 
 ## 🤝 Nasıl Katılabilirsiniz? 🤝
 
-Eğer projelerimizden herhangi birine katılmak veya bizimle çalışmak istiyorsanız, lütfen [iletişim](mailto:info@aramizdaki-oyuncu.com) kurun.
+Eğer projelerimizden herhangi birine katılmak veya bizimle çalışmak istiyorsanız, lütfen [iletişim](mailto:yonetimekibi@aramizdakioyuncu.com) kurun.
 
 ## 📞 İletişim 📞
 
